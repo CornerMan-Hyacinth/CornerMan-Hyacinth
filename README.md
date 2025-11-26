@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @CornerMan-Hyacinth.
-- 👀 I’m interested in backend development, mostly involving languages like Python and Java.
-- 🌱 Currently learning Solidity.
+- 👋 Hi, I’m @CornerMan-Hyacinth, a full stack web and mobile developer.
+- 👀 Stronger in backend development, with languages such as Python, TypeScript and Java.
+- 🌱 Currently learning Solidity and Go.
 - 💞️ Looking to collaborate on interesting, problem-solving projects.
-- 📫 You can contact via hycorner462@gmail.com
-
-<!---
-CornerMan-Hyacinth/CornerMan-Hyacinth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 You can contact me via hycorner462@gmail.com
